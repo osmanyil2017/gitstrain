@@ -10,7 +10,9 @@ hello remote jump
 hello main txt
 hello main txt1
 hello main cvcv
+hello main bugfix1
 goodbye osman
 goodbye ali
 test line1
 goodbye veli
+hello main bugfix2
