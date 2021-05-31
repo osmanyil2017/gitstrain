@@ -13,3 +13,4 @@ hello main cvcv
 goodbye osman
 goodbye ali
 test line1
+goodbye veli
