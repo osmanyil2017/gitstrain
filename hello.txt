@@ -3,7 +3,7 @@ hello ali
 hello veli
 hello main mehmet
 hello xyz ayse
-hello xyz test
+hello xyz deneme
 hello xyz help
 hello remote retest
 hello remote jump
