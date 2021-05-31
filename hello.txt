@@ -16,3 +16,5 @@ goodbye ali
 test line1
 goodbye veli
 hello main bugfix2
+hello devam 1
+hello devam 2
