@@ -14,9 +14,11 @@ test line1
 test branch line
 test branch line 2
 test branch line 3
+hello main bugfix1
 goodbye osman
 goodbye ali
 goodbye veli
 goodbye mehmet
 goodbye ayse
 goodbye test
+hello main bugfix2
