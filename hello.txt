@@ -22,3 +22,4 @@ goodbye mehmet
 goodbye ayse
 goodbye test
 hello main bugfix2
+hello master 1
